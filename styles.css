@@ -1,0 +1,14 @@
+body{
+    background-color: pink;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin:auto;
+height: 700px;
+width: 500px;
+
+}
+h1{
+    background-color: wite;
+}
